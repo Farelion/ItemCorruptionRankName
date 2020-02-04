@@ -1,0 +1,8 @@
+## Interface: 80300
+## Title: ItemCorruptionRankName
+## Version: 1.0
+## Author: Farelion ( Kazzak - EU )
+## Notes: Show corruption name and rank in item tooltip.
+## DefaultState: Enabled
+
+main.lua

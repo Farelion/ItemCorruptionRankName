@@ -1,2 +1,2 @@
 # ItemCorruptionRankName
- ItemCorruptionRankName
+ Wow Addon - ItemCorruptionRankName
